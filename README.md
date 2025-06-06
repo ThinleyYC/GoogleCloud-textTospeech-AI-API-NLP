@@ -1,7 +1,9 @@
 # GoogleCloud-Text-To-Speech-AI-API-Natural Language Processing 
 
 source tutorial : Youtube (Jie Jenn)
+
 Language: Python
+
 Editor: VSCode
 
 Pre-req
