@@ -23,4 +23,4 @@ Agenda:
 
 Output: audio file1 and audio file 2
 
-Reflection: Learnt to use Goggle Cloud Service for the first time and tried Test to Speech translation
+Reflection: Learnt to use Google Cloud Service for the first time and tried Test to Speech translation
